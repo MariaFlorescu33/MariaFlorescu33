@@ -14,6 +14,8 @@
 ### ****Связаться со мной:****
 
 • [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+• email : 13florescumari@gmail.com
+• phone number : +447956558231
 
 ### ****Языки и инструменты:****
 
@@ -41,7 +43,7 @@
 
 Область применения сайта школа SkyPro.
 
-Основные функциональные требования к сайту: [Требования](https://www.notion.so/6746e543d02c43879de0057cafe196b0?pvs=21)
+Основные функциональные требования к сайту: https://docs.google.com/document/d/1dFAtaLsIW8yDkXVwXDr0auzSsmMdZBVovl-hApX8nFc/edit?usp=sharing
 
 ### Методология тестирования
 
@@ -61,8 +63,8 @@
 - Postman для создания коллекции и автоматизации прогона;
 
 ### ****Декомпозиция****
+<img width="1422" alt="Screenshot%202023-10-10%20at%2013 33 39" src="https://github.com/MariaFlorescu33/MariaFlorescu33/assets/148152518/01b5fff7-7964-4a57-9fab-be142221be84">
 
-![Screenshot 2023-10-10 at 13.33.39.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/950e6df0-c352-438d-9f90-134a4a48d83e/Screenshot_2023-10-10_at_13.33.39.png)
 
 ### Результаты тестирования
 
