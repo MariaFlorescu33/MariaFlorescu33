@@ -74,36 +74,35 @@
 
 [Sitechco.pdf](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/d3cf38ee-9ee1-4251-bb81-e0838413f153/Sitechco.pdf?id=55f5a9f2-fe8c-407a-af64-2a51126bc5e4&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=nmMTQRu3uw5v6MFhH6di6Y2o_bTVqOLl81vLAa97ZE8&downloadName=Sitechco.pdf)
 
-Smoke тестирование****
+****Smoke тестирование****
 
-[Smoke-test.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047135/Smoke-test.pdf)
-[K1-Test%2Brun%2B2023_05_31.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047136/K1-Test.2Brun.2B2023_05_31.pdf)
+[Smoke-test](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/556637ff-bec0-43d9-9b5e-7453d17ed4b8/K1-2023-10-10-2.pdf?id=760dadab-387e-48ca-bf55-92c70366c485&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=Xoz8ufw632pSNl2pZaMx4IJEIKxTGx6uFyI6teLoOzQ&downloadName=Smoke-test.pdf)
 
+[K1-Test+run+2023_05_31.pdf](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/c6c5a17b-5860-437e-a110-b587ed0e9fbd/K1-Testrun2023_05_31.pdf?id=d35cc1a4-6456-4cf8-88b9-74a52ace3c66&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=DLfL6ih5yrjzjfhVY0qMcphISg8gZ1MQZV37mfZQASU&downloadName=K1-Test%2Brun%2B2023_05_31.pdf)
 
 ****Регрессивное тестирование****
 
-[Regression%20testing.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047143/Regression.20testing.pdf)
-
+[Regression testing.pdf](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/26fbbb69-dcab-4aa1-8dce-b18ff62655a5/Regression_testing.pdf?id=1625dffc-49ec-4b96-af6f-e6672b652b19&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=WhfL52z_9YTqlUaoP-8zGpW1f0N7vTXju2cjyfCbdaE&downloadName=Regression+testing.pdf)
 
 ****Приемочное тестирование****
-[K1-2023-10-10.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047161/K1-2023-10-10.pdf)
 
-[K1-Test%2Brun%2B2023_05_31-2.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047169/K1-Test.2Brun.2B2023_05_31-2.pdf)
+[K1-2023-10-10.pdf](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/9739b971-6184-4ed5-98cd-3579be3fbeb0/K1-2023-10-10.pdf?id=e033c3fa-bb9f-4e57-b03a-2c41922cf5a7&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=-MFhmmXzFuXpVDjUNXg02UHul-YtkoSc3qKFolVwPoc&downloadName=K1-2023-10-10.pdf)
 
+[K1-Test+run+2023_05_31-2.pdf](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/6eb0e5df-c0b3-4b29-ad4c-bb097d1c0822/K1-Testrun2023_05_31-2.pdf?id=cd8088fc-c33d-46dd-9b97-cb70cd85fcbe&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=39PkL7W6I5lbuujjwxN08EGV67MHnE0luo65mZSQzXU&downloadName=K1-Test%2Brun%2B2023_05_31-2.pdf)
 
 ****Тестирование API****
-[API%20testing.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047177/API.20testing.pdf)
 
-[K1-Test%2Brun%2B2023_07_31.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047184/K1-Test.2Brun.2B2023_07_31.pdf)
+[API testing](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/44f66a84-c325-45d1-815c-380d8adcc169/K1-2023-10-10-3.pdf?id=1c1268f3-7929-4c05-9d3b-9251e13683f3&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=RN8rVVIcwZFFy-sq75WNeOwIFnxu3StrhyBNo6bxWa4&downloadName=API+testing.pdf)
 
+[K1-Test+run+2023_07_31.pdf](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/adbd07d3-9d3e-45f2-9781-c99fa3042e5a/K1-Testrun2023_07_31.pdf?id=f34eaac1-8508-4ef4-a1b2-4f7abd22c5b9&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=pss7vbLneO_eynJQybfA2wpTTJV79rL_TihldtQ4xRk&downloadName=K1-Test%2Brun%2B2023_07_31.pdf)
 
-
+[API testing Postman.json](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/4317b00c-5c64-4861-9eaf-53dadaee2492/API_testing_Postman.json)
 
 ****Баг- Репорт****
 
-[Bug report.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047280/Bug.20report.pdf)
+[Bug report.pdf](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/385ce2ab-3e59-4338-bfea-b2525772ba85/Bag_report.pdf?id=cc8410fe-3a4e-4dea-968a-ceb258ac4305&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=GRJU0wwiR-aelSJ-zZLlg8qpJPuBDafVKcOnY7y1fas&downloadName=Bug+report.pdf)
 
-[API bug report.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047295/API.20bug.20report.pdf)
+[API bug report.pdf](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/b4d56d73-cfb8-43f2-aad2-8b36b94d6f32/API_bag_report.pdf?id=5c96b20a-a7c2-40e0-ae95-47a4d27740d4&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=Fkj9Gqco660-omGxb8AM2OkxH3rF1Tqx9S96WSXwq78&downloadName=API+bug+report.pdf)
 
 ### Анализ и выводы:
 
