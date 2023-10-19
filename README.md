@@ -1,4 +1,4 @@
-### Портфолио Флореску Мария
+[API%20testing%20Postman.json](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047186/API.20testing.20Postman.json)### Портфолио Флореску Мария
 
 Здравствуйте! Меня зовут Мария и я начинающий QA-инженер с основным фокусом на ручном тестировании. Готова к обучению, развитию и новым вызовам в области тестирования ПО. 
 В поисках интересных проектов и команды, с которой мы вместе сможем создавать продукты, гордость которых будет разделять каждый из нас!
@@ -13,9 +13,9 @@
 
 ### ****Связаться со мной:****
 
-• [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-• email : 13florescumari@gmail.com
-• phone number : +447956558231
+### • [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+### • email : 13florescumari@gmail.com
+### • phone number : +447956558231
 
 ### ****Языки и инструменты:****
 
@@ -43,7 +43,7 @@
 
 Область применения сайта школа SkyPro.
 
-Основные функциональные требования к сайту: https://docs.google.com/document/d/1dFAtaLsIW8yDkXVwXDr0auzSsmMdZBVovl-hApX8nFc/edit?usp=sharing
+Основные функциональные требования к сайту: [Требования:](https://docs.google.com/document/d/1dFAtaLsIW8yDkXVwXDr0auzSsmMdZBVovl-hApX8nFc/edit?usp=sharing)
 
 ### Методология тестирования
 
@@ -72,37 +72,38 @@
 
 Чек-лист:
 
-[Sitechco.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/d3cf38ee-9ee1-4251-bb81-e0838413f153/Sitechco.pdf)
+[Sitechco.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047122/Sitechco.pdf)
 
-****Smoke тестирование****
+Smoke тестирование****
 
-[Smoke-test](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/556637ff-bec0-43d9-9b5e-7453d17ed4b8/K1-2023-10-10-2.pdf)
+[Smoke-test.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047135/Smoke-test.pdf)
+[K1-Test%2Brun%2B2023_05_31.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047136/K1-Test.2Brun.2B2023_05_31.pdf)
 
-[K1-Test+run+2023_05_31.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/c6c5a17b-5860-437e-a110-b587ed0e9fbd/K1-Testrun2023_05_31.pdf)
 
 ****Регрессивное тестирование****
 
-[Regression testing.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/26fbbb69-dcab-4aa1-8dce-b18ff62655a5/Regression_testing.pdf)
+[Regression%20testing.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047143/Regression.20testing.pdf)
+
 
 ****Приемочное тестирование****
+[K1-2023-10-10.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047161/K1-2023-10-10.pdf)
 
-[K1-2023-10-10.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/9739b971-6184-4ed5-98cd-3579be3fbeb0/K1-2023-10-10.pdf)
+[K1-Test%2Brun%2B2023_05_31-2.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047169/K1-Test.2Brun.2B2023_05_31-2.pdf)
 
-[K1-Test+run+2023_05_31-2.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/6eb0e5df-c0b3-4b29-ad4c-bb097d1c0822/K1-Testrun2023_05_31-2.pdf)
 
 ****Тестирование API****
+[API%20testing.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047177/API.20testing.pdf)
 
-[API testing](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/44f66a84-c325-45d1-815c-380d8adcc169/K1-2023-10-10-3.pdf)
+[K1-Test%2Brun%2B2023_07_31.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047184/K1-Test.2Brun.2B2023_07_31.pdf)
 
-[K1-Test+run+2023_07_31.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/adbd07d3-9d3e-45f2-9781-c99fa3042e5a/K1-Testrun2023_07_31.pdf)
 
-[API testing Postman.json](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/4317b00c-5c64-4861-9eaf-53dadaee2492/API_testing_Postman.json)
+
 
 ****Баг- Репорт****
 
-[Bug report.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/385ce2ab-3e59-4338-bfea-b2525772ba85/Bag_report.pdf)
+[Bug report.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047280/Bug.20report.pdf)
 
-[API bug report.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/b4d56d73-cfb8-43f2-aad2-8b36b94d6f32/API_bag_report.pdf)
+[API bug report.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047295/API.20bug.20report.pdf)
 
 ### Анализ и выводы:
 
