@@ -96,7 +96,7 @@
 
 [K1-Test+run+2023_07_31.pdf](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/adbd07d3-9d3e-45f2-9781-c99fa3042e5a/K1-Testrun2023_07_31.pdf?id=f34eaac1-8508-4ef4-a1b2-4f7abd22c5b9&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=pss7vbLneO_eynJQybfA2wpTTJV79rL_TihldtQ4xRk&downloadName=K1-Test%2Brun%2B2023_07_31.pdf)
 
-[API testing Postman.json](https://prod-files-secure.s3.us-west-2.amazonaws.com/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/4317b00c-5c64-4861-9eaf-53dadaee2492/API_testing_Postman.json)
+[API testing Postman.json](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/4317b00c-5c64-4861-9eaf-53dadaee2492/API_testing_Postman.json?id=f72b0049-a72b-4165-95db-f720fd7e1cd5&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=i-l1uFI5jxDyDBYLtZgQgqp_4GammqafZh_nmzPpt6Y&downloadName=API+testing+Postman.json)
 
 ****Баг- Репорт****
 
