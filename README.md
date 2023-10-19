@@ -72,7 +72,7 @@
 
 Чек-лист:
 
-[Sitechco.pdf](https://github.com/MariaFlorescu33/MariaFlorescu33/files/13047122/Sitechco.pdf)
+[Sitechco.pdf](https://file.notion.so/f/f/2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2/d3cf38ee-9ee1-4251-bb81-e0838413f153/Sitechco.pdf?id=55f5a9f2-fe8c-407a-af64-2a51126bc5e4&table=block&spaceId=2b93d2ad-23f1-4fe2-b6ca-028fbd8653f2&expirationTimestamp=1697839200000&signature=nmMTQRu3uw5v6MFhH6di6Y2o_bTVqOLl81vLAa97ZE8&downloadName=Sitechco.pdf)
 
 Smoke тестирование****
 
